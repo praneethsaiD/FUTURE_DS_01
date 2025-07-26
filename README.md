@@ -54,7 +54,7 @@ After data cleaning, the following analytical questions were addressed:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/your-username/e-commerce-sales-dashboard.git](https://github.com/your-username/e-commerce-sales-dashboard.git)
+    git clone https://github.com/praneethsaiD/FUTURE_DS_01/blob/main/TASK%201.pbix
     ```
     (Replace with your actual repository URL)
 
